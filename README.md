@@ -26,3 +26,4 @@ Rapberry Pi is configured as AP
 
 Samba share for copying the mp3 files and editing the database
 
+Actually the jukebox has no speakers an the original amplifier is broken. This will be done somewhere in the future.
